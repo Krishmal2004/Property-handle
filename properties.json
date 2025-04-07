@@ -1,0 +1,345 @@
+{
+  "properties": [
+    {
+      "propertyId": "PROP1679432616000",
+      "agentId": "Krishmal2004",
+      "title": "Luxury Villa with Pool",
+      "type": "Villa",
+      "price": 750000.0,
+      "location": "Beverly Hills, CA",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 3500.0,
+      "description": "Beautiful luxury villa with modern amenities and stunning views.",
+      "amenities": [
+        "Swimming Pool",
+        "Garden",
+        "Garage",
+        "Security System",
+        "Smart Home"
+      ],
+      "images": [
+        "villa_front.jpg",
+        "villa_pool.jpg",
+        "villa_interior.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:03:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:03:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1679432617000",
+      "agentId": "Krishmal2004",
+      "title": "Modern Downtown Apartment",
+      "type": "Apartment",
+      "price": 450000.0,
+      "location": "Downtown, City Center",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 1200.0,
+      "description": "Contemporary apartment in prime location with city views.",
+      "amenities": [
+        "Gym",
+        "Parking",
+        "24/7 Security",
+        "Rooftop Garden"
+      ],
+      "images": [
+        "apt_living.jpg",
+        "apt_bedroom.jpg",
+        "apt_view.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:03:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:03:36",
+      "updatedBy": "Krishmal2004",
+      "featured": true
+    },
+    {
+      "propertyId": "PROP1742640516158",
+      "agentId": "Krishmal2004",
+      "title": "Luxuary",
+      "type": "Commercial",
+      "price": 145623.0,
+      "location": "Home",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 2.0,
+      "description": "agentDashBoard.jsp",
+      "amenities": [
+        "gym"
+      ],
+      "images": [
+        "PHOTO-2025-03-10-22-23-39.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:12:27",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1742668203974",
+      "agentId": "Krishmal2004",
+      "title": "Vila",
+      "type": "Apartment",
+      "price": 150000.0,
+      "location": "Pannipitiya",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 123056.0,
+      "description": "AgentProfileUpdateServlet",
+      "amenities": [
+        "gym"
+      ],
+      "images": [
+        "PHOTO-2025-03-10-22-23-39.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:12:27",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1742670161752",
+      "agentId": "Krishmal2004",
+      "title": "Krishmal",
+      "type": "Commercial",
+      "price": 145236.0,
+      "location": "Nuwa",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 12563.0,
+      "description": "Appointment",
+      "amenities": [],
+      "images": [
+        "PHOTO-2025-03-10-22-23-39.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:12:27",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1743017529906",
+      "agentId": "Krishmal2004",
+      "title": "hiiii",
+      "type": "Villa",
+      "price": 245244.0,
+      "location": "2222",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 2.0,
+      "description": "2ujjgh",
+      "amenities": [
+        "gg"
+      ],
+      "images": [],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:12:27",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1743681823830",
+      "agentId": "Krishmal2004",
+      "title": "Krishmal",
+      "type": "Apartment",
+      "price": 1520.0,
+      "location": "Colombo",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFeet": 3333.0,
+      "description": "333",
+      "amenities": [
+        "33"
+      ],
+      "images": [],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:12:27",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744029159856",
+      "agentId": "Krishmal2004",
+      "title": "Kala",
+      "type": "House",
+      "price": 10000.0,
+      "location": "colombo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 2.0,
+      "description": "22222",
+      "amenities": [
+        "hii"
+      ],
+      "images": [
+        "WhatsApp Image 2025-04-04 at 9.26.21 PM.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-03-21 22:12:27",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-03-21 22:12:27",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744031380438",
+      "agentId": "Krishmal2004",
+      "title": "123",
+      "type": "House",
+      "price": 12121.0,
+      "location": "local",
+      "bedrooms": 1111,
+      "bathrooms": 11,
+      "squareFeet": 11.0,
+      "description": "22",
+      "amenities": [
+        "22"
+      ],
+      "images": [
+        "property-images/PROP1744031380438/048e8539-ec0d-42e9-9752-3036fec95d93.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 18:39:40",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 18:39:40",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744032481202",
+      "agentId": "Krishmal2004",
+      "title": "Krishmal",
+      "type": "House",
+      "price": 1000.0,
+      "location": "12",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFeet": 1.0,
+      "description": "111111111111111111111111111",
+      "amenities": [
+        "11111111111"
+      ],
+      "images": [
+        "property-images/PROP1744032481202/967e6aaf-c0cb-4711-a214-fe60e49dd0b2.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744032565647",
+      "agentId": "Krishmal2004",
+      "title": "g",
+      "type": "House",
+      "price": 3333333.0,
+      "location": "333",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFeet": 3.0,
+      "description": "33",
+      "amenities": [],
+      "images": [
+        "property-images/PROP1744032565647/7be304c1-35ed-4fec-85ea-3dcf048eb5d3.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744032677691",
+      "agentId": "Krishmal2004",
+      "title": "hh",
+      "type": "Apartment",
+      "price": 5555.0,
+      "location": "55",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "squareFeet": 5.0,
+      "description": "555",
+      "amenities": [
+        "55"
+      ],
+      "images": [
+        "property-images/PROP1744032677691/fb2948a4-7e26-4fcd-9534-68d09614fc2c.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744034324347",
+      "agentId": "Krishmal2004",
+      "title": "janiya",
+      "type": "Villa",
+      "price": 1000.0,
+      "location": "00",
+      "bedrooms": 0,
+      "bathrooms": 7,
+      "squareFeet": 7.0,
+      "description": "7",
+      "amenities": [
+        "7"
+      ],
+      "images": [
+        "property-images/PROP1744034324347/1d0b8bad-782e-4df9-987f-9e5fc4d5d83f.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744034985268",
+      "agentId": "Krishmal2004",
+      "title": "Kavindu",
+      "type": "Apartment",
+      "price": 10000.0,
+      "location": "Colombo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 2.0,
+      "description": "22",
+      "amenities": [
+        "22"
+      ],
+      "images": [
+        "property-images/PROP1744034985268/d9fc12af-0f47-4271-93fb-8f0efa4e1566.jpeg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    }
+  ],
+  "lastUpdated": "2025-04-07 19:39:45",
+  "lastUpdatedBy": "Krishmal2004"
+}
